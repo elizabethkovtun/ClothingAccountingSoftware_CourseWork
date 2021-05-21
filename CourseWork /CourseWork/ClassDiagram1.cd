@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CourseWork.Forms.AddingClothes">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAAAAAAAACBAAAAAAAAAQAAAIAABAAAAARAAAAAI=</HashCode>
+      <FileName>Forms\AddingClothes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Forms.AddOveralls">
+    <Position X="3.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAggAAAKAABAAAAAAAAAQAAAAgABAAAAAAAAAEAA=</HashCode>
+      <FileName>Forms\AddOveralls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CivilClothes">
+    <Position X="6.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAABAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>TypeOfClothes\CivilClothes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.MilitaryClothes">
+    <Position X="4" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAABAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>TypeOfClothes\MilitaryClothes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Overalls">
+    <Position X="1.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAABAAEAAAAAAgAAEAAA=</HashCode>
+      <FileName>TypeOfClothes\Overalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Clothes" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAAAAAAAAAIQAAAACAABFAECAAAAAgAAAAAA=</HashCode>
+      <FileName>Clothes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.Forms.AddCivilClothes">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAAAAAAAAABAAAAAAAAAQAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\AddCivilClothes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

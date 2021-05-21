@@ -1,0 +1,95 @@
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.exe
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.deps.json
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.json
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.StartWindow.resources
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.genruntimeconfig.cache
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingCivilClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Properties.Resources.resources
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.ChoiceOfCategory.resources
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingMilitaryClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingOveralls.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.exe
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.deps.json
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.json
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.dev.json
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingCivilClothes.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingMilitaryClothes.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingOveralls.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.ChoiceOfCategory.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.Properties.Resources.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.StartWindow.resources
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfo.cs
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Desktop\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.genruntimeconfig.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.exe
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.deps.json
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.json
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\bin\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingCivilClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingMilitaryClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AddingOveralls.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.ChoiceOfCategory.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.Properties.Resources.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.StartWindow.resources
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.genruntimeconfig.cache
+\\Mac\Home\Documents\Study\Курсовая\Новая папка\CourseWork 2\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.Viewing.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.AddingClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.ChoiceOfCategory.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.StartWindow.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.Viewing.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Properties.Resources.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.exe
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.deps.json
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.json
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\ref\CourseWork.dll
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\bin\Debug\net5.0-windows\CourseWork.pdb
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.AddCivilClothes.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.genruntimeconfig.cache
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.AddOveralls.resources
+\\Mac\Home\Documents\Study\Курсовая\Курсовая\CourseWork\CourseWork\obj\Debug\net5.0-windows\CourseWork.Forms.AddMilitaryClothes.resources
